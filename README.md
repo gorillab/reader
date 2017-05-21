@@ -27,7 +27,7 @@ Reader will be developed in several platforms:
 - CLI app (Terminal on Mac OS X): commander
 
 Repositories:
-- [reader](https://github.com/gorillab/reader): web-based app
+- [reader-web](https://github.com/gorillab/reader-web): web-based app
 - [reader-theme](https://github.com/gorillab/reader-theme): customized bootstrap theme
 
 ### SDKs
