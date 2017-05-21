@@ -74,3 +74,25 @@ Feeds, user accounts and data storage.
 
 Repositories:
 - [swagger-node](https://github.com/gorillab/swagger-node): for generating api, scrapers & scraper-admin services from openapi yaml file
+
+## Development Stages
+
+### Development
+
+Reader will be run in local at https://reader.dev
+
+### Staging
+
+We use Heroku to run many instances of reader services:
+- Web: https://glab-reader-web.herokuapp.com
+- API: https://glab-reader-api.herokuapp.com
+- Scraper Admin: https://glab-reader-scraper-admin.herokuapp.com
+- Github Trending Scraper: https://glab-reader-github-trending.herokuapp.com
+
+### Production
+
+Reader web app will be lived at https://reader.gorillab.co
+
+## Author
+
+Gorillab | [Website](https://gorillab.co) | [GitHub](https://github.com/gorillab) | [Say Hello !](hello@gorillab.co)
