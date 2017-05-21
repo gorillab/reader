@@ -1,4 +1,4 @@
-# [Reader](https://reader.gorillab.co)
+# [reader](https://reader.gorillab.co)
 
 A customizable feeds reader on web, mobile, messenger bot and even terminal platforms.
 
