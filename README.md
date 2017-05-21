@@ -65,6 +65,10 @@ Repositories:
 
 Feeds, user accounts and data storage.
 
+## Database Design
+
+![](images/database.jpg)
+
 ## Technologies
 
 - Front-end: React, React-Native, Messenger Platform, Commander, Bootstrap, Sass
