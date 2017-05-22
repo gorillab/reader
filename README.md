@@ -14,7 +14,7 @@ The idea is started from each [Gorillab](https://gorillab.co)'s members struggli
 
 User can read news on the web, mobile apps, messenger bot or even terminal.
 
-The interesting parts are everyone can see each other's feeds & activities on there own wall (like facebook timeline). And that means there will be a place you can explore the world's activities, that is the homepage.
+The interesting parts are everyone can see each other's feeds & activities on there own wall (like facebook timeline). And that means there will be a place you can explore the world's activities, the reader homepage.
 
 Interesting right! Keep moving to the Architecture of reader.
 
@@ -74,7 +74,8 @@ This is the news post from source that user subscribed. The user is not only abl
 
 - Front-end: React, React-Native, Messenger Platform, Commander, Bootstrap, Sass
 - Back-end: Express, Passport, Mongoose
-- DB: MongoDB
+- Database: MongoDB
+- DevOps: Docker, Nginx, PM2, Travis-CI, Heroku
 - Tools: swagger-node, feedparser, create-react-app, create-react-native-app
 
 ## Development Stages
@@ -122,4 +123,4 @@ Our members are on GitHub:
 - [Phat Pham](https://github.com/orgs/gorillab/people/phatpham9)
 - [Phu Tang](https://github.com/orgs/gorillab/people/tangkhanhphu)
 
-Gorillab | [Website](https://gorillab.co) | [GitHub](https://github.com/gorillab) | [Say Hello!](hello@gorillab.co)
+Gorillab | [Website](https://gorillab.co) | [GitHub](https://github.com/gorillab) | [Say Hello!](mailto:hello@gorillab.co)
