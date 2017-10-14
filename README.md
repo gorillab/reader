@@ -94,6 +94,7 @@ Reader will be run in local at [https://reader.dev](https://reader.dev). Checkou
 - [reader-scraper-admin](https://github.com/gorillab/reader-scraper-admin): scrapers admin service
 - [reader-scraper](https://github.com/gorillab/reader-scraper): base scraper service
 - [reader-github-trending](https://github.com/gorillab/reader-github-trending): github trending scraper based on reader-scraper
+- [reader-hn](https://github.com/gorillab/reader-hn): hacker news scraper
 
 **Tools**
 - [swagger-node](https://github.com/gorillab/swagger-node): for generating api, scrapers & scraper-admin services from openapi yaml file
