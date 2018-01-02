@@ -94,6 +94,8 @@ Reader will be run in local at [https://reader.dev](https://reader.dev). Checkou
 - [reader-scraper-admin](https://github.com/gorillab/reader-scraper-admin): scrapers admin service
 - [reader-scraper](https://github.com/gorillab/reader-scraper): base scraper service
 - [reader-github-trending](https://github.com/gorillab/reader-github-trending): github trending scraper based on reader-scraper
+- [reader-hn](https://github.com/gorillab/reader-hn): hacker news scraper
+- [reader-medium](https://github.com/gorillab/medium): medium scraper
 
 **Tools**
 - [swagger-node](https://github.com/gorillab/swagger-node): for generating api, scrapers & scraper-admin services from openapi yaml file
@@ -101,10 +103,9 @@ Reader will be run in local at [https://reader.dev](https://reader.dev). Checkou
 ### Staging
 
 We use Heroku to run many instances of reader services:
-- Web: [https://glab-reader-web.herokuapp.com](https://glab-reader-web.herokuapp.com)
-- API: [https://glab-reader-api.herokuapp.com](https://glab-reader-api.herokuapp.com)
-- Scraper Admin: [https://glab-reader-scraper-admin.herokuapp.com](https://glab-reader-scraper-admin.herokuapp.com)
-- Github Trending Scraper: [https://glab-reader-github-trending.herokuapp.com](https://glab-reader-github-trending.herokuapp.com)
+- Web: [https://staging.reader.gorillab.co](https://reader.gorillab.co)
+- API: [https://staging.reader.gorillab.co/api](https://reader.gorillab.co/api)
+- Scraper Admin: [https://staging.reader.gorillab.co/admin](https://reader.gorillab.co/admin)
 
 ### Production
 
